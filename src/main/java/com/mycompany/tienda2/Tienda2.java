@@ -106,7 +106,7 @@ public class Tienda2 {
             System.out.println("Total pagado: $" + total);
             System.out.println("¡Gracias por su compra!");
         } else {
-            System.out.println("❌ Correo inválido. Compra no confirmada.");
+            System.out.println("Correo inválido. Compra no confirmada.");
         }
     }
 
